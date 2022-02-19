@@ -2,7 +2,7 @@
   # Hands-On Fundamentals of Machine Learing made easy.
   This is a repository for my course "Hands-On-ML-Made-Easy"
   
-  This course is based on the book [*Aurelien Geron's Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow*](https://www.oreilly.com/library/view/hands- on-machine-learning/9781492032632/). In fact it tries to explain everything of section 1 i.e., **The Fundamentals of Machine Learning**, in a simple manner. So it is going to be a very comprehensive yet well structured course on ML. Thank you Geron for making such a beautiful book 🙏. It would explain and implement all the code in the book hands-on as well as provide solutions to excersices as well as give a few extra-curriculum to research to.
+  This course is based on the book [ *Aurelien Geron's Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow* ](https://www.oreilly.com/library/view/hands- on-machine-learning/9781492032632/). In fact it tries to explain everything of section 1 i.e., **The Fundamentals of Machine Learning**, in a simple manner. So it is going to be a very comprehensive yet well structured course on ML. Thank you Geron for making such a beautiful book 🙏. It would explain and implement all the code in the book hands-on as well as provide solutions to excersices as well as give a few extra-curriculum to research to.
   
   The course structure is as follows:
   ## Part I. The Fundamentals of Machine Learning
