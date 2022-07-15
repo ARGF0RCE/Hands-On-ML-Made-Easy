@@ -17,6 +17,6 @@
    ### 8. Dimensionality reduction
    ### 9. Unsupervised Learning
   
-  All of this will be covered with an Ubuntu System (linux). A great OS for deep learning [check it out](https://ubuntu.com/) and it's free!😉
+  All of this will be covered with [Google Colab](https://colab.research.google.com).
   But worry not, the code that I will be sharing will work on any system and you can code along.
 
